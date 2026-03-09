@@ -5,7 +5,10 @@ A simple **Snake Game** built using **HTML, CSS, and JavaScript** as part of my 
 This project helped me practice **JavaScript game logic, DOM manipulation, and keyboard event handling** while recreating the classic snake game.
 
 ---
+## 🎮 Demo
 
+You can play the game here:
+🔗 Live Demo: snake-game-mpwwybl3t-nabeel-builds-projects.vercel.app
 ---
 
 ## 🚀 Features
